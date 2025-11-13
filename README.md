@@ -9,7 +9,7 @@ I’m a dedicated **Cybersecurity Enthusiast** and **Penetration Tester** with a
 
 ## Skills & Technologies
 - **Cybersecurity & Penetration Testing**  
-- **Programming:** C++, JavaScript (JS), PHP, Python, HTML, CSS  
+- **Programming:** C++, JavaScript (JS), PHP, Python, HTML, CSS, sql.
 - **Operating Systems:** Linux, Windows  
 - **Networking**  
 - **Automation & Scripting**  
