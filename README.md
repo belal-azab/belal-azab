@@ -18,5 +18,4 @@ I’m a dedicated **Cybersecurity Enthusiast** and **Penetration Tester** with a
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/belal-azab-392b80294)  
-- [X](https://x.com/Xcooper0)  
 - **Email:** belal.azabb@gmail.com  
